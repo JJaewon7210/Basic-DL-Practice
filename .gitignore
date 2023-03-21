@@ -1,0 +1,10 @@
+*.pyc
+*__pycache__*
+*core.*
+*.o*
+*~
+*.idea
+*.mp4
+*.avi
+*.h5
+*.pt
