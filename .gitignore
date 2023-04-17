@@ -8,3 +8,5 @@
 *.avi
 *.h5
 *.pt
+*.mat
+*.txt
